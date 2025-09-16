@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+Portfolio by https://github.com/taqui-786/Portfolio
+
 # Project Portfolio
 
 A simple and Beautiful Porfolio made with Nextjs and Shadcn Ui.
@@ -61,5 +62,3 @@ const { name, title } = portfolioConfig;
 ```
 =======
 # portolio-website
-My portfolio website
->>>>>>> 971e879c2194d8ebc82d13e76dcf2000c2232fab
