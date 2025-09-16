@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Portfolio
 
 A simple and Beautiful Porfolio made with Nextjs and Shadcn Ui.
@@ -58,3 +59,7 @@ import { portfolioConfig } from "@/config/portfolio.config";
 // Access configuration values
 const { name, title } = portfolioConfig;
 ```
+=======
+# portolio-website
+My portfolio website
+>>>>>>> 971e879c2194d8ebc82d13e76dcf2000c2232fab
