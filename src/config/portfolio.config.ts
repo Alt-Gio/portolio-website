@@ -12,9 +12,9 @@ export const portfolioConfig = {
   socialLinks: {
     facebook: "",
     twitter: "",
-    linkedin: "www.linkedin.com/in/marc-giovanni",
+    linkedin: "",
     external: "",
-    github: "https://github.com/Alt-gio", // Assuming this is the GitHub link
+    github: "", // Assuming this is the GitHub link
   },
 
   // SEO Information
@@ -62,7 +62,7 @@ export const portfolioConfig = {
       "Creating Cool Projects",
     ],
     personalInfo: {
-      language: "English, Bicolano, Tagalog",
+      language: "English, Bikol, Tagalog",
       nationality: "Filipino",
       gender: "Male",
     },
